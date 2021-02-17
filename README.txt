@@ -1,2 +1,1 @@
-Meal finder built with vanilla HTML, CSS and JavaScript. Using Traversy media tutorial. 
-Some basic fetch API integration
+Simple expense tracker created with vanilla HTML, CSS and JavaScript following Traversy Media tutorial
